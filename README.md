@@ -24,4 +24,4 @@ Video contain a little bit of **HTML**, **CSS** and **JS**. In this project all 
 clone this repository:
 [Click here to view on GitHub]()
 
-git clone 
+git clone https://github.com/Amnaakhtar1213/video-project.git
