@@ -1,6 +1,6 @@
 ## VIDEO PROJECT
 
-Video contain a little bit of **HTML**, **CSS** and **JS**. In this project all work is done by 1 button. play and pause the vodeo by add event listener.
+This Video-project contains a little bit of **HTML**, **CSS** and **JS**. In this project all work is done by 1 button. play and pause the video by add event listener.
 
 ---
 
