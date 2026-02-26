@@ -22,6 +22,7 @@ Video contain a little bit of **HTML**, **CSS** and **JS**. In this project all 
 ## How to Run 
 
 clone this repository:
-[Click here to view on GitHub]()
+[Click here to view on GitHub](https://github.com/Amnaakhtar1213/video-project)
 
+```bash
 git clone https://github.com/Amnaakhtar1213/video-project.git
