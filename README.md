@@ -12,9 +12,9 @@ Video contain a little bit of **HTML**, **CSS** and **JS**. In this project all 
 ## Technology used
 
 
-1.    **HTML**            ->  (For structure)
-2.    **CSS**             ->  (For styling)
-3.    **JAVASCRIPT**      ->  (For interation and dynamic layout)
+-    **HTML** <br><br><br><br><br><br>->  (For structure)
+-    **CSS**             ->  (For styling)
+-    **JAVASCRIPT**      ->  (For interation and dynamic layout)
   
 
 ---
