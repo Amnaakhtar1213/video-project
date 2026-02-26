@@ -1,0 +1,68 @@
+
+header{
+  min-height: 100vh;
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+.video-container{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -2;
+}
+h1{
+  color: rgb(246, 248, 249);
+  font-size: 4rem;
+
+}
+.switch-btn{
+  position: absolute;
+  bottom: 7%;
+  left: 7%;
+  width: 7rem;
+  height: 2rem;
+  display: flex;
+  border-radius: 9px;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background-color: rgb(96, 66, 114);
+  color: white;
+  z-index: 10;
+  gap: 2rem
+}
+.switch-btn span{
+display: inline-block;
+font-size: 0.85rem;
+cursor: pointer;
+text-transform: capitalize;
+
+}
+.switch{
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgb(150, 153, 154);
+  border-radius: 10px;
+  margin: 0;
+  display: block;
+}
+.slide .switch{
+  left: 50%;
+}
+header::after{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: -1;
+}

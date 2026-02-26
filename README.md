@@ -1,0 +1,27 @@
+## VIDEO PROJECT
+
+Video contain a little bit of **HTML**, **CSS** and **JS**. In this project all work is done by 1 button. play and pause the vodeo by add event listener.
+
+---
+
+## Features
+1.    On button 1 small container(span) swipe left and right to play and pause the video.
+  
+---
+
+## Technology used
+
+
+1.    **HTML**            ->  (For structure)
+2.    **CSS**             ->  (For styling)
+3.    **JAVASCRIPT**      ->  (For interation and dynamic layout)
+  
+
+---
+
+## How to Run 
+
+clone this repository:
+[Click here to view on GitHub]()
+
+git clone 
