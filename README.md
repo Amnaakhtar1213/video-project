@@ -13,7 +13,7 @@ Video contain a little bit of **HTML**, **CSS** and **JS**. In this project all 
 
 
 -    **HTML**                  ->  (For structure)
--    **CSS**   &nbsp;&nbsp;&nbsp; ->  (For styling)
+-    **CSS**            &nbsp; ->  (For styling)
 -    **JAVASCRIPT**            ->  (For interation and dynamic layout)
   
 
