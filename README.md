@@ -5,24 +5,25 @@ This Video-project contains a little bit of **HTML**, **CSS** and **JS**. In thi
 ---
 
 ## Features
-1.    On button 1 small container(span) swipe left and right to play and pause the video.
+  
+  - 1 btn for play and pause the video.
   
 ---
 
-## Technology used
+## Technology 
 
 
 -    **HTML**             &nbsp;   ->  (For structure)
 -    **CSS**              &nbsp;   ->  (For styling)
--    **JAVASCRIPT**       &nbsp;   ->  (For interation and dynamic layout)
+-    **JAVASCRIPT**       &nbsp;   ->  (For interaction and dynamic layout)
   
 
 ---
 
 ## How to Run 
 
-clone this repository:
-[Click here to view on GitHub](https://github.com/Amnaakhtar1213/video-project)
+[Click here to view the live demo](https://amnaakhtar1213.github.io/video-project/)
 
+## Clone the repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/video-project.git
