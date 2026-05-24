@@ -1,29 +1,40 @@
-## VIDEO PROJECT
+## VIDEO PROJECT 🎬
 
 This Video-project contains a little bit of **HTML**, **CSS** and **JS**. In this project all work is done by 1 button. play and pause the video by add event listener.
 
 ---
 
-## Features
+## Features 🚀
   
-  - 1 btn for play and pause the video.
+  - btn toggle from to pause
+  - video work according to button
   
 ---
 
-## Technology 
-
+## Technology 🛒
 
 -    **HTML**             &nbsp;   ->  (For structure)
 -    **CSS**              &nbsp;   ->  (For styling)
 -    **JAVASCRIPT**       &nbsp;   ->  (For interaction and dynamic layout)
   
-
 ---
 
-## How to Run 
+## How to Run ✨
+------------------------
 
-[Click here to view the live demo](https://amnaakhtar1213.github.io/video-project/)
+## SCREENSHOT 📸
 
+Here's take a quick look:
+- [Click here for screenshot](ss.png)
+
+-------------------------
+
+## LIVE DEMO 🌐
+
+Here's take a test yourself:
+- [Click here to view the live demo](https://amnaakhtar1213.github.io/video-project/)
+
+---------------------------
 ## Clone the repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/video-project.git
